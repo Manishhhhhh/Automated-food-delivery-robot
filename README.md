@@ -1,1 +1,4 @@
 # Automated-food-delivery-robot
+A food delivering system that allows the senders to deliver food to receivers with a more efficient way, without the inconvenience associated with delivering food manually. In this automatic delivery system. A robot will come to the sender’s place to pick up the food and send it to corresponding receiver without moving a step. The receiver also do not need to move a step to get his/her food from the robot. The robot will have moving capability and will be able to hold multiple food items We will provide convenient ways to users to book a order such as web or mobile interface.
+Components required: Arduino Nano, 2wd Accessories Kids Mini Educational Robot Kit Aluminum Chassis ROHS, Mini solderless breadboard, 
+IR Sensor x 2, male to female jumper wires, HC-SR04 ultrasonic sensors, L298n Motor Driver,battery
